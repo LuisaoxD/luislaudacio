@@ -16,7 +16,7 @@
 ##
 
 
-<div>
+<div style="display: flex">
   <a href="https://github.com/luislaudacio">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luislaudacio&show_icons=true&theme=dark"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luislaudacio&layout=compact&langs_count=7&theme=dark"/>
